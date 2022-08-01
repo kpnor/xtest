@@ -1,0 +1,10 @@
+Hi
+I need some detailed information regarding the requirement.
+
+1. Do you have any priority of vue.js version(vue 2 or vue 3)?
+
+2. Is there any dedicated endpoint for user login? Can you give me a login endpoint?
+Note: from your given details I can see there's no login endpoint. normally best practice is, you hit login endpoint with username and password and server will return a authorization token after successful login and this token will be included with the upcoming request.
+From your given endpoint, I can login an user but it will not comply with above best practice.
+
+3. is there any frontend design or I will make the pages as per your requirement in the given PDF?
